@@ -17,6 +17,5 @@ public class Controller {
         else {
             actiontarget.setText("Invalid Login Credentials");
         }
-
     }
 }
